@@ -1,0 +1,14 @@
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\large.txt
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\medium.txt
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\small.txt
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.dll
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.pdb
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.dll
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.pdb
+D:\EGYETEM\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\ref\Snake.dll

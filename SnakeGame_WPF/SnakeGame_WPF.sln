@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeGame_WPF", "SnakeGame_WPF.csproj", "{EE77AED0-D013-417A-928B-17777429A47F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snake", "..\Snake\Snake.csproj", "{0BA2CA01-2487-42E8-A15E-A33FD7CF0AAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeTest", "..\SnakeTest\SnakeTest.csproj", "{5627139C-32C2-4026-996A-E150A00C6D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE77AED0-D013-417A-928B-17777429A47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE77AED0-D013-417A-928B-17777429A47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE77AED0-D013-417A-928B-17777429A47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE77AED0-D013-417A-928B-17777429A47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA2CA01-2487-42E8-A15E-A33FD7CF0AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA2CA01-2487-42E8-A15E-A33FD7CF0AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA2CA01-2487-42E8-A15E-A33FD7CF0AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA2CA01-2487-42E8-A15E-A33FD7CF0AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5627139C-32C2-4026-996A-E150A00C6D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5627139C-32C2-4026-996A-E150A00C6D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5627139C-32C2-4026-996A-E150A00C6D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5627139C-32C2-4026-996A-E150A00C6D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62416EF8-C8E2-480C-AE71-18E471EE9818}
+	EndGlobalSection
+EndGlobal

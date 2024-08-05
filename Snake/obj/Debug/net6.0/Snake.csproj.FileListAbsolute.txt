@@ -1,0 +1,28 @@
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\large.txt
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\medium.txt
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Maps\small.txt
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\Milan\OneDrive - Eotvos Lorand Tudomanyegyetem\III. Semester\EVA\SnakeGame_MAIN\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Maps\large.txt
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Maps\medium.txt
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Maps\small.txt
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Snake.dll
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.dll
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Users\milan\source\repos\SnakeGame_WPF\Snake\obj\Debug\net6.0\ref\Snake.dll
